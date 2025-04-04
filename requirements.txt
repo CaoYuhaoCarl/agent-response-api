@@ -1,4 +1,0 @@
-openai
-geopy
-gradio
-rich
